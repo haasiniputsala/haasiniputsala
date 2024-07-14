@@ -1,7 +1,5 @@
-## Hello there!! ㄟ(≧◇≦)ㄏ
-# It's me Haasini
-- I'm a senior-year student at [Visvesvaraya National Institute of Technology](https://vnit.ac.in/).
-- 🔭 Currently exploring the domain of Data Science and Machine Learning 
+## Hi there, I'm Haasini! 👋
+- Currently a senior-year student at [Visvesvaraya National Institute of Technology](https://vnit.ac.in/).
+  🔭 I love Data Analysis and exploring the domain of Data Science and Machine Learning.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love data
 
