@@ -1,8 +1,7 @@
-## Hello there ㄟ(≧◇≦)ㄏ
-I'm Haasini, a Final year student at Visvesvaraya National Institute of Technology.
-Pursuing B.Tech in Electronics and Communication Engineering.
-- 🔭 
-- 🌱 Exploring the domain of Data Science and Machine Learning
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+## Hello there!! ㄟ(≧◇≦)ㄏ
+# It's me Haasini
+I'm a senior-year student at [Visvesvaraya National Institute of Technology](https://vnit.ac.in/).
+🔭 Currently exploring the domain of Data Science and Machine Learning 
+😄 Pronouns: She/Her
+⚡ Fun fact: I love data
 
